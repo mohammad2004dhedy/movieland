@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohammad2004dhedy/movieland.git/static/css/main.9b3f19c7.css",
+    "main.js": "/mohammad2004dhedy/movieland.git/static/js/main.1e186999.js",
+    "index.html": "/mohammad2004dhedy/movieland.git/index.html",
+    "main.9b3f19c7.css.map": "/mohammad2004dhedy/movieland.git/static/css/main.9b3f19c7.css.map",
+    "main.1e186999.js.map": "/mohammad2004dhedy/movieland.git/static/js/main.1e186999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3f19c7.css",
+    "static/js/main.1e186999.js"
+  ]
+}
